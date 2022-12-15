@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "PixelKit",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v13),
         .macOS(.v10_13),
         .tvOS(.v11)
     ],
